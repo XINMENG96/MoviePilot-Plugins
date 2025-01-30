@@ -52,9 +52,9 @@ def retry(ExceptionToCheck: Any,
 
 class ANiStrm(_PluginBase):
     # 插件名称
-    plugin_name = "ANiStrm_mod"
+    plugin_name = "ANiStrm"
     # 插件描述
-    plugin_desc = "自动获取当季所有番剧，免去下载，轻松拥有一个番剧媒体库，替换成反代地址"
+    plugin_desc = "自动获取当季所有番剧，免去下载，轻松拥有一个番剧媒体库"
     # 插件图标
     plugin_icon = "https://raw.githubusercontent.com/XINMENG96/MoviePilot-Plugins/main/icons/anistrm.png"
     # 插件版本
@@ -333,7 +333,7 @@ class ANiStrm(_PluginBase):
                                             'type': 'info',
                                             'variant': 'tonal',
                                             'text': 'emby容器需要设置代理，docker的环境变量必须要有http_proxy代理变量，大小写敏感，具体见readme.' + '\n' +
-                                                    'https://github.com/honue/MoviePilot-Plugins',
+                                                    'https://github.com/XINMENG96/MoviePilot-Plugins',
                                             'style': 'white-space: pre-line;'
                                         }
                                     }
