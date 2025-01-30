@@ -54,15 +54,15 @@ class ANiStrm(_PluginBase):
     # 插件名称
     plugin_name = "ANiStrm_mod"
     # 插件描述
-    plugin_desc = "自动获取当季所有番剧，免去下载，轻松拥有一个番剧媒体库"
+    plugin_desc = "自动获取当季所有番剧，免去下载，轻松拥有一个番剧媒体库，替换成反代地址"
     # 插件图标
     plugin_icon = "https://raw.githubusercontent.com/honue/MoviePilot-Plugins/main/icons/anistrm.png"
     # 插件版本
     plugin_version = "2.4.2"
     # 插件作者
-    plugin_author = "honue,XINMENG"
+    plugin_author = "honue, XINMENG96"
     # 作者主页
-    author_url = "https://github.com/honue"
+    author_url = "https://github.com/XINMENG96"
     # 插件配置项ID前缀
     plugin_config_prefix = "anistrmM_"
     # 加载顺序
