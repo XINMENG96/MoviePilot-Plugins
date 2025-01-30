@@ -56,7 +56,7 @@ class ANiStrm(_PluginBase):
     # 插件描述
     plugin_desc = "自动获取当季所有番剧，免去下载，轻松拥有一个番剧媒体库，替换成反代地址"
     # 插件图标
-    plugin_icon = "https://raw.githubusercontent.com/honue/MoviePilot-Plugins/main/icons/anistrm.png"
+    plugin_icon = "https://raw.githubusercontent.com/XINMENG96/MoviePilot-Plugins/main/icons/anistrm.png"
     # 插件版本
     plugin_version = "2.4.3"
     # 插件作者
@@ -64,7 +64,7 @@ class ANiStrm(_PluginBase):
     # 作者主页
     author_url = "https://github.com/XINMENG96"
     # 插件配置项ID前缀
-    plugin_config_prefix = "anistrmM_"
+    plugin_config_prefix = "anistrm_"
     # 加载顺序
     plugin_order = 15
     # 可使用的用户级别
